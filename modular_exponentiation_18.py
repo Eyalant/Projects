@@ -1,3 +1,5 @@
+# This is a simple implementation of modular exponentiation (from an Algebric Structures course).
+
 from math import floor
 
 
