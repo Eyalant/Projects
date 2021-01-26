@@ -1,0 +1,8 @@
+pclass	age	sex kaki	survived
+2nd	adult	male	pipi	no
+2nd	adult	male	shtina	no
+2nd	adult	male	bulbul	no
+3rd	adult	female	barvaz	no
+3rd	adult	male	pipi	no
+3rd	adult	male	pipi	no
+crew	adult	male	kaka	no

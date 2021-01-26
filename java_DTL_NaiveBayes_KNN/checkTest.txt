@@ -1,0 +1,4 @@
+pclass	age	sex	kaki	survived
+crew	adult	male	pipi	no
+crew	adult	male	zevel	yes
+crew	adult	male	moshik	no

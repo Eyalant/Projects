@@ -1,0 +1,2 @@
+TimeOfDay	HomeWorkDue?	Programming?	MusicType
+Morning	Yes	No	Classical
