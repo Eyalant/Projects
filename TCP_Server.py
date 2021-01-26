@@ -1,3 +1,5 @@
+# This is a simple implementation of a TCP server, which receives requests and sends files or JPGs accordingly (from a networking course)
+
 import socket, threading, os.path
 
 def main():
