@@ -1,0 +1,3 @@
+/home/eyal/CLionProjects/ex32/test
+/home/eyal/CLionProjects/ex32/input.txt
+/home/eyal/CLionProjects/ex32/correctOutput.txt
